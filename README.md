@@ -1,6 +1,14 @@
 
-## Analyze retail business
+# Building a reporting system on customer growth at retail businesses    
+## Purpose
+-	Segments of customers following purchase frequency and purchase volume.
+-	Knowing customers’ trends buy products.
+-	Knowing how many customers rise.
+-	Proposing a marketing plan to increase customers.
 
+
+
+## Case Study 
 ### Souce data
 [Data_Sales.CSV](https://docs.google.com/spreadsheets/d/1-AjY1pVNZ1FzeSZXW5RXUIw6OBWnaJp9sDVLodI97ZE/edit?usp=sharing)
 
